@@ -5,11 +5,11 @@ I'm a **MERN Stack Developer** with a strong passion for **Artificial Intelligen
 ### 👀 My Interests
 - **Artificial Intelligence & Machine Learning**: Exploring advanced models and integrating ML algorithms into web applications for predictive analytics and data-driven solutions.
 - **Full-Stack Development**: Skilled in building responsive, dynamic, and scalable applications using the **MERN stack** (MongoDB, Express, React, Node.js).
-- **Cloud Computing**: Proficient in deploying and managing applications on cloud platforms like **AWS** and **IBM Cloud**.
+- **Data Analytics**: Utilizing advanced analytics techniques to derive actionable insights from data and enhance decision-making processes.
 
 ### 🌱 Currently Learning
-- Advanced Data Analytics techniques using **Google Advanced Data Analytics Professional Certificate**.
-- Cloud architecture and solutions through **AWS Cloud Solutions Architect Professional Certificate**.
+- Advanced Data Analytics techniques through the **Google Advanced Data Analytics Professional Certificate**.
+- Full-stack development with a focus on scaling applications using modern JavaScript frameworks.
 - Enhancing my database management skills with the **Meta Database Engineer Professional Certificate**.
 
 ### 💼 Professional Projects
@@ -17,6 +17,8 @@ I'm a **MERN Stack Developer** with a strong passion for **Artificial Intelligen
 - **Weather Forecasting Using CNNs**: Developed a deep learning model for multi-class weather recognition using custom **CNN**, **VGG16**, and **ResNet152V2**.
 - **Content & Project Management Tools**: Built full-stack applications using **Node.js** and **MongoDB** during an internship, demonstrating expertise in backend and frontend development. [GitHub Links](https://lnkd.in/dgi2ayvh)
 - **Password Manager**: A React-based application utilizing **TailwindCSS**, **MongoDB**, and **Express** for secure password storage and management.
+- **Spotify Clone**: Created a Spotify clone with playlist management, responsive design, and playback controls using **HTML**, **CSS**, and **JavaScript**.
+- **Twitter Clone**: Built a Twitter homepage with navigation, content feed, and user interactions using **HTML**, **Tailwind CSS**, and **JavaScript**.
 
 ### 💞️ Looking to Collaborate On
 - **MERN stack projects**: Open to working on innovative and challenging web development projects.
@@ -28,7 +30,7 @@ I'm a **MERN Stack Developer** with a strong passion for **Artificial Intelligen
 - 💼 [LinkedIn](https://www.linkedin.com/in/rahulraj-singh)
 
 ### 🛠️ Technical Skills
-- **Languages**: Python, C++, JavaScript, SQL
+- **Languages**: Python, Java, JavaScript, SQL
 - **Frameworks**: Node.js, Express.js, React, Next.js
 - **Databases**: MongoDB, MySQL, SQLite
 - **Cloud Platforms**: AWS, IBM Cloud
@@ -38,8 +40,22 @@ I'm a **MERN Stack Developer** with a strong passion for **Artificial Intelligen
 ### 😄 Pronouns
 - He/Him
 
+### 📚 Publications
+1. **Dynamic Transportation Problem** 
+   - **Conference**: IEEE World Conference on Applied Intelligence and Computing (AIC 2024)
+   - **Details**: Presented as a book chapter in the SCRS book titled *“Applied Intelligence and Computing”*. The paper explores innovative optimization techniques for solving dynamic transportation problems.
+   - **Link**: [Check it out here](https://www.publications.scrs.in/chapter/978-81-955020-9-7/16)
+
+2. **Smart Supply Chains: Leveraging Machine Learning for Optimized Inventory Management**
+   - **Conference**: International Symposium on Computational Science and Supply Chain Management (ISCCSC 2024)
+   - **Publication**: To be published by Routledge Taylor & Francis Group and CRC Press. This journal paper discusses advanced ML models for enhancing inventory management in supply chains.
+
+3. **CNNs for Weather Prediction: Custom vs. Transfer Learning**
+   - **Conference**: International Conference on Innovative Computing and Communication (ICICC) – A Flagship Conference
+   - **Publication**: Accepted for publication in the Springer LNNS series. The research focuses on comparing custom CNNs with transfer learning models like VGG16 and ResNet152V2 for accurate weather forecasting. Selected among the top 20% of research articles.
+
 ### ⚡ Fun Fact
-- I have an exceptional ability to **adapt quickly** and learn new technologies. Whether it's a new programming language, a cloud platform, or a machine learning framework, I dive right in and get up to speed fast. This adaptability has been a key factor in my success across various projects and internships.
+- I'm like a **tech sponge** — throw any new technology or framework my way, and I'll soak it up faster than you can say "JavaScript callback hell." Whether it’s picking up a new programming language or squashing tricky bugs, I thrive on solving problems and learning new things. My adaptability has made me the go-to person for last-minute debugging and unexpected project challenges! 😄💻
 
 <!---
 CipherNomad/CipherNomad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
