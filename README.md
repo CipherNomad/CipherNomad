@@ -17,31 +17,28 @@ I'm a **MERN Stack Developer** with a strong passion for **Artificial Intelligen
 
 ## 💼 Professional Projects
 - **Content & Project Management Tools**:
-  - Built full-stack applications using **Node.js** and **MongoDB** during an internship.
+  - Built full-stack applications using **Node.js** and **MongoDB** during my Full Stack Developer Internship at **Bharat Intern**.
   - [GitHub Links](https://lnkd.in/dgi2ayvh)
-- **Password Manager**: 
-  - A React-based application utilizing **TailwindCSS**, **MongoDB**, and **Express** for secure password storage.
-- **Spotify Clone**: 
-  - Created a Spotify clone with playlist management and playback controls using **HTML**, **CSS**, and **JavaScript**.
-- **Twitter Clone**:
-  - Built a Twitter homepage with navigation, content feed, and interactions using **HTML**, **Tailwind CSS**, and **JavaScript**.
-
+- **Secure Password Manager App** (React, Tailwind, MongoDB):
+  - Developed a secure password manager with user authentication and encrypted data storage.
+  - Implemented a responsive UI using **TailwindCSS**.
+- **Creator Support Platform** (Next.js):
+  - Developed a platform similar to Patreon for user subscriptions and content management with a user-friendly interface.
+- **E-commerce Shoe Store Backend** (Node.js, Express.js, MongoDB):
+  - Built the backend for an e-commerce shoe store, enabling features for users to browse products, add items to cart, and place orders.
+  - Implemented admin functionalities for inventory management, product updates, and order processing.
+- **Spotify Clone** (HTML, CSS, JavaScript):
+  - Created a Spotify clone with playlist management, responsive design, and playback controls.
+- **Twitter Clone** (HTML, Tailwind CSS, JavaScript):
+  - Built a Twitter homepage with navigation, content feed, and user interactions, ensuring a responsive experience across devices.
+- **Video Chat Application** (WebRTC, Node.js, Express):
+  - Developed a real-time video chat application using **WebRTC** for peer-to-peer communication.
+  - Integrated features like user authentication, room creation, and live video streaming.
+  
 ## 💞️ Looking to Collaborate On
 - **MERN Stack Projects**: Open to innovative web development projects.
 - **AI-Powered Web Applications**: Interested in integrating ML models into applications.
 - **Open Source Contributions**: Actively seeking opportunities to contribute to meaningful open-source projects.
-
-## 📫 How to Reach Me
-- 📧 Email: [rahulrajsingh2503@gmail.com](mailto:rahulrajsingh2503@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/rahulraj-singh)
-
-## 🛠️ Technical Skills
-- **Languages**: Python, Java, JavaScript, SQL
-- **Frameworks**: Node.js, Express.js, React, Next.js
-- **Databases**: MongoDB, MySQL, SQLite
-- **Cloud Platforms**: AWS, IBM Cloud
-- **Tools**: Git, Docker, VS Code
-- **Soft Skills**: Leadership, Event Management, Public Speaking, Adaptability, Problem-Solving
 
 ## 📚 Publications
 1. **Dynamic Transportation Problem**
@@ -56,6 +53,22 @@ I'm a **MERN Stack Developer** with a strong passion for **Artificial Intelligen
 3. **CNNs for Weather Prediction: Custom vs. Transfer Learning**
    - **Conference**: International Conference on Innovative Computing and Communication (ICICC)
    - **Publication**: Accepted for publication in the *Springer LNNS series*. It compares custom CNNs with transfer learning models like **VGG16** and **ResNet152V2** for weather forecasting.
+
+4. **A Comparative Study of Ensemble Learning Models in Predicting Air Quality Index (AQI) Across Global Cities**
+   - **Conference**: International Conference on Advance Computing And Ingenious Technology In Engineering Science (ICACITES-24)
+   - **Publication**: This paper will be published by the **American Institute of Physics** and indexed by both **Scopus** and **Web of Science**. It presents a comparative analysis of ensemble learning models in predicting AQI, evaluating their performance across various global cities.
+
+## 📫 How to Reach Me
+- 📧 Email: [rahulrajsingh2503@gmail.com](mailto:rahulrajsingh2503@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rahulraj-singh)
+
+## 🛠️ Technical Skills
+- **Languages**: Python, C++, JavaScript, SQL
+- **Frameworks & Libraries**: Node.js, Express.js, React, Next.js, TailwindCSS
+- **Databases**: MongoDB, MySQL, SQLite
+- **Cloud Platforms**: AWS, IBM Cloud
+- **Tools & Technologies**: Git, Docker, WebRTC, VS Code
+- **Soft Skills**: Leadership, Event Management, Public Speaking, Adaptability, Problem-Solving
 
 ## ⚡ Fun Fact
 - I'm like a **tech sponge** — throw any new technology or framework my way, and I'll soak it up quickly. Whether it’s learning a new programming language or debugging tricky issues, I thrive on solving problems and adapting to new challenges! 😄💻
