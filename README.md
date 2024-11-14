@@ -16,11 +16,6 @@ I'm a **MERN Stack Developer** with a strong passion for **Artificial Intelligen
 - Database management with the **Meta Database Engineer Professional Certificate**.
 
 ## 💼 Professional Projects
-- **Inventory Management Optimization**: 
-  - Leveraged **XGBoost** and ML models to predict demand and optimize inventory levels.
-  - Published in the *Journal of Information Technology, Springer*.
-- **Weather Forecasting Using CNNs**:
-  - Developed a model for multi-class weather recognition using **CNN**, **VGG16**, and **ResNet152V2**.
 - **Content & Project Management Tools**:
   - Built full-stack applications using **Node.js** and **MongoDB** during an internship.
   - [GitHub Links](https://lnkd.in/dgi2ayvh)
