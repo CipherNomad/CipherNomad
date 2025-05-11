@@ -56,7 +56,8 @@ I'm a **MERN Stack Developer** with a strong passion for **Artificial Intelligen
    - **Details**: Published as a book chapter in the SCRS book titled *“Applied Intelligence and Computing”*. It explores innovative optimization techniques for dynamic transportation problems.  
    - **Link**: [Check it out here](https://www.publications.scrs.in/chapter/978-81-955020-9-7/16)  
 
-2. **Smart Supply Chains: Leveraging Machine Learning for Optimized Inventory Management**  
+2. **Machine learning for smarter supply chains: A playbook for next-generation inventory optimization
+**  
    - **Conference**: International Symposium on Computational Science and Supply Chain Management (ISCCSC 2024)  
    - **Publication**: To be published by Routledge Taylor & Francis Group and CRC Press.  
    - **Details**: This paper discusses ML models for enhancing inventory management.  
