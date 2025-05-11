@@ -55,12 +55,17 @@ I'm a **MERN Stack Developer** with a strong passion for **Artificial Intelligen
    - **Conference**: IEEE World Conference on Applied Intelligence and Computing (AIC 2024)  
    - **Details**: Published as a book chapter in the SCRS book titled *“Applied Intelligence and Computing”*. It explores innovative optimization techniques for dynamic transportation problems.  
    - **Link**: [Check it out here](https://www.publications.scrs.in/chapter/978-81-955020-9-7/16)  
+
 2. **Smart Supply Chains: Leveraging Machine Learning for Optimized Inventory Management**  
    - **Conference**: International Symposium on Computational Science and Supply Chain Management (ISCCSC 2024)  
-   - **Publication**: To be published by Routledge Taylor & Francis Group and CRC Press. This paper discusses ML models for enhancing inventory management.  
+   - **Publication**: To be published by Routledge Taylor & Francis Group and CRC Press.  
+   - **Details**: This paper discusses ML models for enhancing inventory management.  
+   - **Link**: [Check it out here](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003637530-20/machine-learning-smarter-supply-chains-playbook-next-generation-inventory-optimization-rajdeep-paul-rahul-raj-singh-kartikesh-thakur-saurabh-kashuadhan-gurwinder-singh)  
+
 3. **CNNs for Weather Prediction: Custom vs. Transfer Learning**  
    - **Conference**: International Conference on Innovative Computing and Communication (ICICC)  
    - **Publication**: Accepted for publication in the *Springer LNNS series*. It compares custom CNNs with transfer learning models like **VGG16** and **ResNet152V2** for weather forecasting.  
+
 4. **A Comparative Study of Ensemble Learning Models in Predicting Air Quality Index (AQI) Across Global Cities**  
    - **Conference**: Doctoral Symposium on Computational Intelligence (DoSCI-2025)  
    - **Publication**: Accepted for publication in the *Springer LNNS series*, indexed by Scopus, WoS, EI, and DBLP.  
