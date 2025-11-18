@@ -10,17 +10,28 @@
 ---
 
 # 💫 About Me:
-🔭 I’m currently working on AI-based systems including Weather Forecasting using CNNs, Inventory Optimization using ML, Power Consumption Prediction, IoT-based Air Quality Monitoring, and multiple MERN stack applications.<br><br>
 
-👯 I’m looking to collaborate on MERN/Next.js applications, ML research (CNN, XGBoost), open-source AI tools, and cloud-based projects.<br><br>
+I am a **Full Stack Developer (MERN + Java)** focused on building scalable, production-grade applications with clean architecture and modern UI/UX. My core expertise lies in **React, Node.js, Express, MongoDB, and Java backend development**, where I enjoy designing efficient APIs and robust system flows.
 
-🤝 I’m looking for help with AWS cloud architecture, distributed backend systems, and MLOps optimization.<br><br>
+Along with my full-stack work, I have a strong interest in **Artificial Intelligence, Machine Learning, and Quantum Computing**. I explore CNNs, predictive models, and algorithmic intelligence to integrate AI into real-world applications seamlessly.
 
-🌱 I’m currently learning Advanced Data Analytics, AWS Solutions Architecture, Corporate Communications, and multiple professional certificates.<br><br>
+🔭 **Currently working on:**  
+MERN applications, Java backend systems, CNN-based weather forecasting, ML-driven inventory optimization, IoT-powered AQI monitoring, and power consumption prediction.
 
-💬 Ask me about MERN Stack, Next.js, deep learning (CNNs/VGG16/ResNet152V2), ML pipelines, system design, and research writing.<br><br>
+👯 **Looking to collaborate on:**  
+MERN/Next.js apps, Java backend projects, ML research (CNN/XGBoost), cloud-native AI deployments, and open-source tools.
 
-⚡ Fun fact: I debug like a detective and remember code better than birthdays.
+🤝 **Seeking help with:**  
+AWS cloud architecture, distributed system design, and production-level MLOps.
+
+🌱 **Currently learning:**  
+Advanced Data Analytics, AWS Solutions Architecture, MLOps, Quantum Computing fundamentals, and ongoing professional certificate programs.
+
+💬 **Ask me about:**  
+MERN stack, Java backend development, CNNs/VGG16/ResNet152V2, ML pipelines, API engineering, system design, and research writing.
+
+⚡ **Fun fact:**  
+I debug like a detective and remember code better than birthdays.
 
 ---
 
