@@ -1,27 +1,144 @@
+<div align="center">
+
+<!-- 🔥 PREMIUM BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3BA3FF,100:000000&height=220&section=header&text=Rahul%20Raj%20Singh%20🚀&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=36"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2600&color=3BA3FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%26+ML+Researcher;Data+Analytics+Engineer;Building+Scalable+AI+%26+MERN+Applications" />
+
+</div>
+
+---
+
 # 💫 About Me:
-🔭 I’m currently working on:<br>AI-based projects including Weather Forecasting using CNNs, Inventory Optimization using ML, Power Consumption Prediction, IoT-based Air Quality Monitoring, and multiple MERN stack applications.<br><br>👯 I’m looking to collaborate on:<br>Full-stack web apps (MERN/Next.js), machine learning research (CNN, XGBoost, optimization models), open-source AI tools, and cloud-based solutions.<br><br>🤝 I’m looking for help with:<br>Advanced cloud architecture (AWS), scalable distributed backend systems, and optimizing deep learning models for production (MLOps).<br><br>🌱 I’m currently learning:<br>Advanced Data Analytics, Cloud Solutions Architecture (AWS), MLOps, Corporate Communications, and completing 5 major professional certificates (Palo Alto Cybersecurity, Google ADA, IBM Full Stack, Meta DB Engineer, AWS CSA).<br><br>💬 Ask me about:<br>MERN stack, Next.js, deep learning (CNNs/VGG16/ResNet152V2), machine learning pipelines, research writing, data analytics, backend APIs, and system design.<br><br>⚡ Fun fact:<br>I turn coffee into clean code, debug like a detective, and my brain has auto-save for code but not for birthdays.
+🔭 I’m currently working on AI-based systems including Weather Forecasting using CNNs, Inventory Optimization using ML, Power Consumption Prediction, IoT-based Air Quality Monitoring, and multiple MERN stack applications.<br><br>
 
+👯 I’m looking to collaborate on MERN/Next.js applications, ML research (CNN, XGBoost), open-source AI tools, and cloud-based projects.<br><br>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahul_raj_singh25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raahulrajsingh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulrajsingh2503@gmail.com) 
+🤝 I’m looking for help with AWS cloud architecture, distributed backend systems, and MLOps optimization.<br><br>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+🌱 I’m currently learning Advanced Data Analytics, AWS Solutions Architecture, Corporate Communications, and multiple professional certificates.<br><br>
+
+💬 Ask me about MERN Stack, Next.js, deep learning (CNNs/VGG16/ResNet152V2), ML pipelines, system design, and research writing.<br><br>
+
+⚡ Fun fact: I debug like a detective and remember code better than birthdays.
+
+---
+
+# 🌐 Socials:
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.rahulrajsingh.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rahul_raj_singh25)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raahulrajsingh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulrajsingh2503@gmail.com)
+
+---
+
+# 💻 Tech Stack (Reordered)
+
+### **Core Languages**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### **Frontend**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### **Backend**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **Cloud**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### **Tools & Other Tech**
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+# 🚀 Projects
+
+## 🏡 [EstatePro – AI Real Estate Platform](https://ciphernomad.github.io/Real-Estate-Application/)
+A modern AI-powered real estate platform with ML-based property recommendations and dynamic listings.
+
+---
+
+## 👗 [Trendify – Full Fashion E-Commerce (MERN)](https://ciphernomad.github.io/Full-Stack-E-Commerce-Platform/)
+A Myntra-style full-stack e-commerce platform with authentication, filtering, cart system & responsive UI.
+
+---
+
+## 🔢 [CalcPro – Smart Calculator](https://ciphernomad.github.io/Calculator/)
+A clean, fast and responsive web calculator with keyboard support.
+
+---
+
+## 🎥 [Video Chat App – WebRTC](https://www.rahulrajsingh.com/projects/video-chat-app)
+Real-time peer-to-peer video calling app with room-based connectivity.
+
+---
+
+## 📨 [Spam SMS Detection](https://www.rahulrajsingh.com/projects/spam-detection)
+Machine-learning model for classifying spam vs ham SMS.
+
+---
+
+## 📉 [Churn Prediction](https://www.rahulrajsingh.com/projects/churn-prediction)
+Predicts customer churn using ML models and exploratory analysis.
+
+---
+
+## 📊 [Death Age Analysis](https://www.rahulrajsingh.com/projects/death-age-analysis)
+Statistical study comparing age patterns of left-handed vs right-handed populations.
+
+---
+
+# 📚 Research Publications
+
+### 🔹 [Dynamic Transportation Problem – IEEE AIC 2024](https://www.researchgate.net/publication/385694672_Dynamic_Transportation_Problem)
+
+### 🔹 [ML for Smarter Supply Chains – Taylor & Francis](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003637530-20/machine-learning-smarter-supply-chains-playbook-next-generation-inventory-optimization-rajdeep-paul-rahul-raj-singh-kartikesh-thakur-saurabh-kashuadhan-gurwinder-singh)
+
+### 🔹 [CNN Weather Forecasting – Springer LNNS](https://link.springer.com/chapter/10.1007/978-981-96-6681-2_39)
+
+---
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CipherNomad&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=CipherNomad&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=CipherNomad&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=CipherNomad&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CipherNomad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CipherNomad&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+---
 
-### ✍️ Random Dev Quote
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=CipherNomad&theme=radical&margin-w=10&no-frame=true)
+
+---
+
+### ✍️ Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+---
+
+### 🔝 Top Contributed Repo  
 ![](https://github-contributor-stats.vercel.app/api?username=CipherNomad&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
+<div align="center">
+  
 [![](https://visitcount.itsvg.in/api?id=CipherNomad&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
