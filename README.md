@@ -1,89 +1,27 @@
-# 👋 Hi, I’m Rahul Raj Singh (@CipherNomad)  
+# 💫 About Me:
+🔭 I’m currently working on:<br>AI-based projects including Weather Forecasting using CNNs, Inventory Optimization using ML, Power Consumption Prediction, IoT-based Air Quality Monitoring, and multiple MERN stack applications.<br><br>👯 I’m looking to collaborate on:<br>Full-stack web apps (MERN/Next.js), machine learning research (CNN, XGBoost, optimization models), open-source AI tools, and cloud-based solutions.<br><br>🤝 I’m looking for help with:<br>Advanced cloud architecture (AWS), scalable distributed backend systems, and optimizing deep learning models for production (MLOps).<br><br>🌱 I’m currently learning:<br>Advanced Data Analytics, Cloud Solutions Architecture (AWS), MLOps, Corporate Communications, and completing 5 major professional certificates (Palo Alto Cybersecurity, Google ADA, IBM Full Stack, Meta DB Engineer, AWS CSA).<br><br>💬 Ask me about:<br>MERN stack, Next.js, deep learning (CNNs/VGG16/ResNet152V2), machine learning pipelines, research writing, data analytics, backend APIs, and system design.<br><br>⚡ Fun fact:<br>I turn coffee into clean code, debug like a detective, and my brain has auto-save for code but not for birthdays.
 
-I'm a **MERN Stack Developer** with a strong passion for **Artificial Intelligence** and **Machine Learning**. My journey in tech is driven by curiosity, adaptability, and a desire to solve real-world problems with innovative solutions.  
 
-## 👀 My Interests
-- **Artificial Intelligence & Machine Learning**:  
-   - Exploring advanced models and integrating ML algorithms into web applications for predictive analytics.  
-- **Full-Stack Development**:  
-   - Skilled in building responsive, dynamic, and scalable applications using the **MERN stack** (MongoDB, Express, React, Node.js).  
-- **Data Analytics**:  
-   - Utilizing analytics techniques to derive actionable insights from data and enhance decision-making processes.  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahul_raj_singh25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raahulrajsingh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulrajsingh2503@gmail.com) 
 
-## 🌱 Currently Learning
-- Advanced Data Analytics through the **Google Advanced Data Analytics Professional Certificate**.  
-- Scaling full-stack applications using modern JavaScript frameworks.  
-- Database management with the **Meta Database Engineer Professional Certificate**.  
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CipherNomad&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=CipherNomad&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CipherNomad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 💼 Internships
-1. **Web Developer Intern - Bharat Intern**  
-   - Built and deployed **Content Management Tool** and **Project Management Tool** using **Node.js** and **MongoDB**.  
-   - Developed a **real-time chat application** with WebSockets for instant communication.  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=CipherNomad&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-2. **Machine Learning Intern - CodSoft**  
-   - Worked on **Spam SMS Detection** using NLP techniques and machine learning algorithms.  
-   - Built a **Customer Churn Prediction** model, leveraging data analytics and visualization techniques to identify key churn factors.  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-3. **Data Analytics Trainee - MedTour Easy**  
-   - Completed the **Google Data Analytics Professional Certificate**, gaining expertise in data cleaning, analysis, and visualization.  
-   - Worked on a project titled **"Analyze Death Age Difference of Right-Handers vs. Left-Handers"**, utilizing Python and statistical analysis techniques to derive insights.  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=CipherNomad&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 💼 Professional Projects
-- **Secure Password Manager App** (React, Tailwind, MongoDB):  
-   - Developed a secure password manager with user authentication and encrypted data storage.  
-   - Implemented a responsive UI using **TailwindCSS**.  
-- **Creator Support Platform** (Next.js):  
-   - Developed a platform similar to Patreon for user subscriptions and content management with a user-friendly interface.  
-- **E-commerce Shoe Store Backend** (Node.js, Express.js, MongoDB):  
-   - Built the backend for an e-commerce shoe store, enabling features for users to browse products, add items to cart, and place orders.  
-   - Implemented admin functionalities for inventory management, product updates, and order processing.  
-- **Spotify Clone** (HTML, CSS, JavaScript):  
-   - Created a Spotify clone with playlist management, responsive design, and playback controls.  
-- **Twitter Clone** (HTML, Tailwind CSS, JavaScript):  
-   - Built a Twitter homepage with navigation, content feed, and user interactions, ensuring a responsive experience across devices.  
-- **Video Chat Application** (WebRTC, Node.js, Express):  
-   - Developed a real-time video chat application using **WebRTC** for peer-to-peer communication.  
-   - Integrated features like user authentication, room creation, and live video streaming.  
+---
+[![](https://visitcount.itsvg.in/api?id=CipherNomad&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💞️ Looking to Collaborate On
-- **MERN Stack Projects**: Open to innovative web development projects.  
-- **AI-Powered Web Applications**: Interested in integrating ML models into applications.  
-- **Open Source Contributions**: Actively seeking opportunities to contribute to meaningful open-source projects.  
-
-## 📚 Publications
-1. **Dynamic Transportation Problem**  
-   - **Conference**: IEEE World Conference on Applied Intelligence and Computing (AIC 2024)  
-   - **Details**: Published as a book chapter in the SCRS book titled *“Applied Intelligence and Computing”*. It explores innovative optimization techniques for dynamic transportation problems.  
-   - **Link**: [Check it out here](https://www.publications.scrs.in/chapter/978-81-955020-9-7/16)  
-
-2. **Machine learning for smarter supply chains: A playbook for next-generation inventory optimization
-**  
-   - **Conference**: International Symposium on Computational Science and Supply Chain Management (ISCCSC 2024)  
-   - **Publication**: To be published by Routledge Taylor & Francis Group and CRC Press.  
-   - **Details**: This paper discusses ML models for enhancing inventory management.  
-   - **Link**: [Check it out here](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003637530-20/machine-learning-smarter-supply-chains-playbook-next-generation-inventory-optimization-rajdeep-paul-rahul-raj-singh-kartikesh-thakur-saurabh-kashuadhan-gurwinder-singh)  
-
-3. **CNNs for Weather Prediction: Custom vs. Transfer Learning**  
-   - **Conference**: International Conference on Innovative Computing and Communication (ICICC)  
-   - **Publication**: Accepted for publication in the *Springer LNNS series*. It compares custom CNNs with transfer learning models like **VGG16** and **ResNet152V2** for weather forecasting.  
-
-4. **A Comparative Study of Ensemble Learning Models in Predicting Air Quality Index (AQI) Across Global Cities**  
-   - **Conference**: Doctoral Symposium on Computational Intelligence (DoSCI-2025)  
-   - **Publication**: Accepted for publication in the *Springer LNNS series*, indexed by Scopus, WoS, EI, and DBLP.  
-
-## 📫 How to Reach Me
-- 📧 Email: [rahulrajsingh2503@gmail.com](mailto:rahulrajsingh2503@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/rahulraj-singh)  
-
-## 🛠️ Technical Skills
-- **Languages**: Python, Java, JavaScript, SQL  
-- **Frameworks & Libraries**: Node.js, Express.js, React, Next.js, TailwindCSS  
-- **Databases**: MongoDB, MySQL, SQLite, DBMS  
-- **Operating Systems**: Windows, Mac, Linux  
-- **Computer Networking & Software Engineering**: Skilled in core concepts and implementations.  
-- **Tools & Technologies**: Git, Docker, WebRTC, VS Code, MS Office, MS Excel  
-- **Cloud Platforms**: AWS, IBM Cloud  
-- **Soft Skills**: Leadership, Event Management, Public Speaking, Anchoring, Auditioning, Adaptability, Problem-Solving  
-
-## ⚡ Fun Fact
-- I'm like a **tech sponge** — throw any new technology or framework my way, and I'll soak it up quickly. Whether it’s learning a new programming language or debugging tricky issues, I thrive on solving problems and adapting to new challenges! 😄💻  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
